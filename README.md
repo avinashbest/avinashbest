@@ -13,3 +13,5 @@
 - ⚡ Fun fact: C++ got the OOP features from Simula67 Programming language.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=avinashbest&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&layout=compact)](https://github.com/avinashbest/github-readme-stats)
