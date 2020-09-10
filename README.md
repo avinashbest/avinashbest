@@ -12,4 +12,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: C++ got the OOP features from Simula67 Programming language.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=avinashbest)
+![Github stats](https://github-readme-stats.vercel.app/api?username=avinashbest&theme=radical)
