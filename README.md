@@ -1,9 +1,9 @@
 ### Hi there 👋
-
 <!--
+
 **avinashbest/avinashbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-->
 
 - 🌱 I’m currently learning CPP
 - 🤔 I’m looking for help with Open Source Contribution
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=avinashbest)
 
 ![counter](https://[YourEndpoint].m.pipedream.net)
--->
+
