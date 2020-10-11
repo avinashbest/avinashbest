@@ -19,6 +19,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from NSIT, Biht
 <img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avinashbest&show_icons=true&hide_border=true" />
 <br>
 <a href="https://github.com/kartikeysingh6/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&layout=compact" /></a>
+<br/>
 
 ### Languages and Tools I know:
 <img align="left" alt="C++" width="33px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" />
