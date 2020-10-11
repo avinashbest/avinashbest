@@ -16,6 +16,14 @@ currently pursuing my B.Tech in Computer Science and Engineering from NSIT, Biht
 - ⚡ Fun fact: C++ got the OOP features from Simula67 Programming language.
 - 😎 Hobbies: Playing Video Games, Drawing Sketches, PC Building 😍
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=avinashbest)
+<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avinashbest&show_icons=true&hide_border=true" />
+<br>
+<a href="https://github.com/kartikeysingh6/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&layout=compact" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&layout=compact)](https://github.com/avinashbest/github-readme-stats)
+### Languages and Tools I know:
+<img align="left" alt="C++" width="33px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" />
+<img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="33px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="33  px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
