@@ -18,8 +18,6 @@ currently pursuing my B.Tech in Computer Science and Engineering from NSIT, Biht
 
 <img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avinashbest&show_icons=true&hide_border=true" />
 
-<br>
-
 ![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&hide_border=true)
 
 ### Languages and Tools I know:
