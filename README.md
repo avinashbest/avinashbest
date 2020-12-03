@@ -33,3 +33,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from NSIT, Biht
 
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" /> -->
 
+### Batches Earned:
+<a href="https://dev.to/avinashbest">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Avinash Kumar's DEV Profile" height="30" width="30">
+</a>
