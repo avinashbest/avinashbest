@@ -21,7 +21,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from NSIT, Biht
 
 ### Languages and Tools I know:
 <img align="left" alt="Visual Studio Code" width="50px"  height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align = "left" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="50" height="50" />
+<img align = "left" src="https://img.icons8.com/color/100/000000/c-programming.png" alt="C" width="50" height="50" />
 <img align="left" alt="C++" width="50px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
