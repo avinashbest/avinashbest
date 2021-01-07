@@ -15,9 +15,9 @@ currently pursuing my B.Tech in Computer Science and Engineering from NSIT, Biht
 - ⚡ Fun fact: C++ got the OOP features from Simula67 Programming language.
 - 😎 Hobbies: Playing Video Games, Drawing Sketches, PC Building 😍
 
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avinashbest&show_icons=true&hide_border=true" />
+<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avinashbest&theme=dark&show_icons=true&hide_border=true" />
 <br>
-<a href="https://github.com/avinashbest/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&layout=compact" /></a>
+<a href="https://github.com/avinashbest/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&layout=compact&theme=dark" /></a>
 
 ### Languages and Tools I know:
 <img align="left" alt="Visual Studio Code" width="50px"  height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
