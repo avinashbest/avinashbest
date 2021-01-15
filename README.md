@@ -33,7 +33,8 @@ currently pursuing my B.Tech in Computer Science and Engineering from NSIT, Biht
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50" />
-<img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50" height="50" />
-<img align = "left" src="https://cloud.githubusercontent.com/assets/6437976/10980221/b5620cfc-83b5-11e5-8bf8-740d4afb5da6.png" alt="Jupyter-Notebook" width="50" />
+<img align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50" />
+<img align = "left" src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50" height="50" />
+<img align = "left" src="https://img.icons8.com/color/48/000000/linux.png" alt = "Linux"/>
+<img align = "left" src="https://img.icons8.com/color/48/000000/ubuntu.png" alt = "Ubuntu"/>
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" /> -->
