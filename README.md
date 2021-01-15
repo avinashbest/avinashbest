@@ -37,4 +37,5 @@ currently pursuing my B.Tech in Computer Science and Engineering from NSIT, Biht
 <img align = "left" src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50" height="50" />
 <img align = "left" src="https://img.icons8.com/color/48/000000/linux.png" alt = "Linux"/>
 <img align = "left" src="https://img.icons8.com/color/48/000000/ubuntu.png" alt = "Ubuntu"/>
+<img align = "left" src="https://img.icons8.com/color/50/000000/gitlab.png" alt = "GitLab"/>
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" /> -->
