@@ -20,9 +20,8 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 
 ## GitHub's Stats
 
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avinashbest&theme=dark&show_icons=true&hide_border=true" />
-<br>
-<a href="https://github.com/avinashbest/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&layout=compact&theme=dark" /></a>
+<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avinashbest&theme=dark&show_icons=true&hide_border=true" width="350"/>
+<a href="https://github.com/avinashbest/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&layout=compact&theme=dark" height="138"/></a>
 
 ## Languages I know:
 
