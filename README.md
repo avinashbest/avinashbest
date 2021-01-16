@@ -52,9 +52,10 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img src="https://img.icons8.com/color/50/000000/gitlab.png" alt = "GitLab"/>
+<img align="left" src="https://img.icons8.com/color/50/000000/gitlab.png" alt = "GitLab"/>
 
 <!-- Jupyter-Notebook -->
+<img src="https://jupyter.org/assets/main-logo.svg" alt = "Jupyter-Notebook"/>
 <!-- Jetbrains IDE -->
 
 ## Operating System I Use:
