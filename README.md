@@ -60,6 +60,8 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 
 ## Operating System I Use:
 
-<img align = "left" src="https://img.icons8.com/color/48/000000/ubuntu.png" alt = "Ubuntu"/>
+<img align = "left" src="https://img.icons8.com/color/48/000000/ubuntu.png" alt = "Ubuntu 20.04 LTS"/>
 
-<img align = "left" src="https://img.icons8.com/color/48/000000/linux.png" alt = "Linux"/>
+<img align = "left" src="https://img.icons8.com/color/48/000000/linux.png" alt = "Linux Kernel"/>
+
+<img align = "left" src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt = "Windows 10"/>
