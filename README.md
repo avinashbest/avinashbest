@@ -58,7 +58,7 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 <!-- Jetbrains IDE -->
 <img align="left" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt = "IntelliJ-idea"/>
 
-<img align="left" src="https://img.icons8.com/color/48/000000/pycharm.png" alt = "PyCharm"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt = "PyCharm"/>
 
 ## Operating System I Use:
 
