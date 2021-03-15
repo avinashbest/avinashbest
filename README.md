@@ -11,7 +11,7 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 - 💬 Ask me Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/avinashbest/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: C++ got the OOP features from Simula67 Programming language.
+- ⚡ Fun fact: The JAVA language was initially called Oak after an oak tree that stood outside James Gosling's office.
 - 😎 Hobbies: Playing Video Games, Drawing Sketches, PC Building 😍
 
 ## Spotify Playing 🎧
