@@ -14,7 +14,7 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 - ⚡ Fun fact: The JAVA language was initially called Oak after an oak tree that stood outside James Gosling's office.
 - 😎 Hobbies: Chess, Gaming, UI/UX, PC Building, Listening Music 😍
 - 🤘 Latest Technical Blogpost: [Medium](https://medium.com/@avinashbest)
-- 💻 Competitive Coding: [CodeChef](https://www.codechef.com/users/avinash_best)
+- 💻 Competitive Coding Ranking: [CodeChef](https://www.codechef.com/users/avinash_best)
 
 ## Spotify Playing 🎧
 
