@@ -36,9 +36,11 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 
 <img align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="48" height="50" />
 
-<img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50" height="50" />
+<img align = "left" src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50" height="50" />
 
-<!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" /> -->
+<img align = "left" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" alt="Java" width="50" height="50" />
+
+<img src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" alt="Kotlin" width="50" height="50" />
 
 ## Tools I use:
 
