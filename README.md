@@ -12,7 +12,9 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/avinashbest/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The JAVA language was initially called Oak after an oak tree that stood outside James Gosling's office.
-- 😎 Hobbies: Playing Video Games, Drawing Sketches, PC Building 😍
+- 😎 Hobbies: Chess, Gaming, UI/UX, PC Building, Listening Music 😍
+- 🤘 Latest Technical Blogpost: [Medium](https://medium.com/@avinashbest)
+- 💻 Competitive Coding: [CodeChef](https://www.codechef.com/users/avinash_best)
 
 ## Spotify Playing 🎧
 
@@ -60,7 +62,9 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 <!-- Jetbrains IDE -->
 <img align="left" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt = "IntelliJ-idea"/>
 
-<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt = "PyCharm"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/pycharm.png" alt = "PyCharm"/>
+
+<img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt = "Android Studio" width="50" height="50"/>
 
 ## Operating System I Use:
 
