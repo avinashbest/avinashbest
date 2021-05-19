@@ -16,15 +16,27 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 - 🤘 Latest Technical Blogpost: [Medium](https://medium.com/@avinashbest)
 - 💻 Competitive Coding Ranking: [CodeChef](https://www.codechef.com/users/avinash_best)
 
-## Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Avinash's Spotify Playing" width="400" />](https://open.spotify.com/user/3752ft5nlr5rvezm2uya93dsm)
+<!-- GitHub Stats -->
+<h2 align="center">My Github Statistics 🔥</h2>   
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=avinashbest&show_icons=true&theme=radical" alt="2" />
+</p>
 
-## GitHub's Stats
 
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avinashbest&theme=dark&show_icons=true&hide_border=true" width="350"/>
 
-<a href="https://github.com/avinashbest/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&layout=compact&theme=dark" height="138"/></a>
+<h2 align="center">My contribution Streak 🔥</h2>
+<p align="center">
+  <a href="https://github.com/avinashbest/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashbest&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+ </p>  
+
+ <p align="center">
+  <img  width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
+</p>
+
 
 ## Languages I know:
 
@@ -72,4 +84,15 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 
 <img align = "left" src="https://img.icons8.com/color/48/000000/linux.png" alt = "Linux Kernel"/>
 
-<img align = "left" src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt = "Windows 10"/>
+<img  src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt = "Windows 10"/>
+
+## Coding is fun 🤩💝
+
+<img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+
+
+### :handshake: Always happy to help!
+
+
+### :hugs: Thank You!
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/avinashbest)! :v: 
