@@ -86,7 +86,7 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 
 <img  src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt = "Windows 10"/>
 
-## Coding is fun 🤩💝
+<!-- ## Coding is fun 🤩💝
 
 <img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
@@ -95,4 +95,4 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 
 
 ### :hugs: Thank You!
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/avinashbest)! :v: 
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/avinashbest)! :v:  -->
