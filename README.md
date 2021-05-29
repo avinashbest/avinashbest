@@ -34,7 +34,7 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
  </p>  
 
  <p align="center">
-  <img  width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
+  <img  width="400px" height="280px" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 </p>
 
 
@@ -87,14 +87,3 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 <img align = "left" src="https://img.icons8.com/color/48/000000/linux.png" alt = "Linux Kernel"/>
 
 <img  src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt = "Windows 10"/>
-
-<!-- ## Coding is fun 🤩💝
-
-<img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
-
-
-### :handshake: Always happy to help!
-
-
-### :hugs: Thank You!
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/avinashbest)! :v:  -->
