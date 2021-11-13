@@ -7,7 +7,7 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 ## I'm a Gamer 🎮, a Programmer 💻, an Engineer 😅, and an Indian 😎!
 
 - 🌱 I’m currently learning about Android Development! (You can clearly see 😄)
-- 🤔 I’m looking for help with Open Source Contribution
+- 🤔 I’m looking for help with Software Development Internships
 - 💬 Ask me Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/avinashbest/), [Résumé](https://drive.google.com/file/d/1OsBz4AGDsTAhqAlA7eMuNX7bphVNn234/view?usp=sharing)
 - 😄 Pronouns: He/Him
