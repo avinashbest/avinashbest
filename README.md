@@ -9,7 +9,7 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 - 🌱 I’m currently learning about Android Development! (You can clearly see 😄)
 - 🤔 I’m looking for help with Software Development Internships
 - 💬 Ask me Anything
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/avinashbest/), [Résumé](https://drive.google.com/file/d/1OsBz4AGDsTAhqAlA7eMuNX7bphVNn234/view?usp=sharing)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/avinashbest/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The JAVA language was initially called Oak after an oak tree that stood outside James Gosling's office.
 - 😎 Hobbies: Chess, Gaming, UI/UX, PC Building, Listening Music 😍
