@@ -75,13 +75,15 @@ I was born in city Patna, I did my 12th from Anugrah Narayan College, Patna and 
 <!-- Jetbrains IDE -->
 <img align="left" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt = "IntelliJ-idea"/>
 
-<img align="left" src="https://img.icons8.com/color/48/000000/pycharm.png" alt = "PyCharm"/>
+<!-- <img align="left" src="https://img.icons8.com/color/48/000000/pycharm.png" alt = "PyCharm"/> -->
 
 <img align="left" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt = "Android Studio" width="50" height="50"/>
 
+<img align="left" src="https://gradle.com/wp-content/themes/fuel/assets/img/branding/gradle-elephant-icon-dark-green.svg" alt = "Gradle" width="50" height="50"/>
+
 <img align="left" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt = "Firebase" width="50" height="50"/>
 
-<img alt="Docker" width="50px"  height="50px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
+<img alt="Docker" width="50px"  height="50px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
 
 ## Operating System I Use:
 
